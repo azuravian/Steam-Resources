@@ -1,1 +1,1 @@
-# steam-class-map
+# Steam Resources
